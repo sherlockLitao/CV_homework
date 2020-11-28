@@ -8,7 +8,7 @@ computer vision
 
 [MedMNIST](https://medmnist.github.io/)
 
-[MedMNIST_code(ResNet](https://github.com/MedMNIST/MedMNIST)
+[MedMNIST_code(ResNet)](https://github.com/MedMNIST/MedMNIST)
 
 ### Some findings:
 
